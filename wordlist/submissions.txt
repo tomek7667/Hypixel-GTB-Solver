@@ -546,6 +546,7 @@ bob
 ambulance
 Swastica
 Party Hat
+chandelier
 Dj Booth
 Chimeney
 Frozen
