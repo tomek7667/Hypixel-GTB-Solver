@@ -1,6 +1,8 @@
 wrench
 oil
 toilet paper
+raindrop
+trick shot
 judo
 violin
 trash can
